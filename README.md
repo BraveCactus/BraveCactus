@@ -6,4 +6,4 @@
 
 📫 How to reach me: Telegram or VK
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraveCactus&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraveCactus&show_icons=true&theme=dark)
