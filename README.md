@@ -5,3 +5,5 @@
 🧠 I'm currently learning C++, C, Python, Matlab, Simulink
 
 📫 How to reach me: Telegram or VK
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraveCactus&show_icons=true&theme=radical)
