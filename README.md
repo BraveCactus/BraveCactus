@@ -7,3 +7,5 @@
 📫 How to reach me: Telegram or VK
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraveCactus&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraveCactus&layout=compact&theme=tokyonight)
