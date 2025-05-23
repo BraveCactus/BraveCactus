@@ -1,4 +1,4 @@
-# Hello there, I'm [@BraveCactus](https://github.com/BraveCactus)! But my real name is Baranchugov Matvey👋
+# Hello there, I'm [@BraveCactus](https://github.com/BraveCactus)! But my real name is Matvey👋
 
 👨‍🎓 I am a second-year [MIPT DAFE/RSE](https://mipt-rse.ru/) student.
 
