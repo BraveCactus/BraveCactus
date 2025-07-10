@@ -1,6 +1,6 @@
 # Hello there, I'm [@BraveCactus](https://github.com/BraveCactus)! But my real name is Matvey👋
 
-👨‍🎓 I am a second-year [MIPT DAFE/RSE](https://mipt-rse.ru/) student.
+👨‍🎓 I am a third-year [MIPT DAFE/RSE](https://mipt-rse.ru/) student.
 
 🧠 I'm currently learning C++, C, Python, Matlab, Simulink
 
